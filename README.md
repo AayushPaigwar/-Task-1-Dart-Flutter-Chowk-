@@ -30,8 +30,8 @@
 Follow the steps below to clone, install dependencies, and run the Flutter app:
 
 1. Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo.git
+```bash 
+git clone https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/
 ```
 
 2. Change directory to the project folder
