@@ -21,7 +21,7 @@
 ----
 # ⚡️ Screen Recording:
 
- <img src="https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/blob/master/GIFs/botttom.gif" width="320" height="700" alt="Alt Text"> <img src="https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/blob/master/GIFs/1689280454792632.gif" width="320" height="700" alt="Alt Text">  <img src="https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/blob/master/GIFs/scroll.gif" width="320" height="700" alt="Alt Text"> <img src="https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/blob/master/GIFs/1689280470892084.gif" width="320" height="700" alt="Alt Text"> " width="320" height="700" alt="Alt Text"> 
+ <img src="https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/blob/master/GIFs/botttom.gif" width="320" height="700" alt="Alt Text"> <img src="https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/blob/master/GIFs/1689280454792632.gif" width="320" height="700" alt="Alt Text">  <img src="https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/blob/master/GIFs/scroll.gif" width="320" height="700" alt="Alt Text"> <img src="https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/blob/master/GIFs/1689280470892084.gif" width="320" height="700" alt="Alt Text"> 
 
 
 ----
